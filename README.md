@@ -4,3 +4,5 @@ Our core source code is private, but we believe in transparency regarding our de
 You can learn more about the project on our main website: thecreepy.app
 Key Documents:
               https://github.com/Lukodiablo/creepy-development-journal/blob/main/dependency_audit.md
+              https://github.com/Lukodiablo/creepy-development-journal/blob/main/malware_fix.md
+              https://github.com/Lukodiablo/creepy-development-journal/blob/main/features.md
