@@ -10,7 +10,7 @@ I began testing the first version of Creepy on that same silent server. The chan
 
 ### The First Platform: Rapid Growth on Firebase
 
-Creepy was born on Firebase, an incredible platform for rapid prototyping. With Google's Gemini and its code assistant tools as my primary partners, we built everything from the dashboard to the backend logic. But the project's success was also a challenge. As Creepy grew from 32 to 42 commands, its complexity outgrew the initial Firebase setup, leading to a critical, unrecoverable crash during a major command overhaul.
+Creepy was born on Firebase, an incredible platform for rapid prototyping. With Google's Gemini or Goole JULES and its code assistant tools as my primary partners, we built everything from the dashboard to the backend logic. But the project's success was also a challenge. As Creepy grew from 32 to 42 commands, its complexity outgrew the initial Firebase setup, leading to a critical, unrecoverable crash during a major command overhaul.
 
 ### The Crisis & The Pivot
 
