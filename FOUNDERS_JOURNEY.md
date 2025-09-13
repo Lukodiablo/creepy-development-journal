@@ -6,11 +6,13 @@ Standard interaction bots were not enough. No one cared. This is the problem I s
 
 ### The Spark: The First Alpha
 
-I began testing the first version of Creepy on that same silent server. The change was immediate. Members returned to guess riddles and engage with the economy. The server came back to life. This was the validation I needed. From this core success, I developed "Creepy's Heartbeat"—an innovative feature that monitors for lulls in activity and proactively launches high-stakes mini-events to keep communities engaged.
+I began testing the first version of Creepy on that same silent server. The change was immediate. Members returned to guess riddles and engage with the economy. The server came back to life. This was the validation I needed. From this core success, I developed **"Creepy's Heartbeat"**—the project's first major innovation.
+
+This is not just a feature; it's a fully autonomous engagement engine. It runs on a periodic backend loop (`clientReady.ts`), checks for low server activity against a timer stored in Firestore, and reads admin-defined settings (like which channels to post in) directly from the database, all configured from the web dashboard. It even cleans up its own expired events to keep channels tidy. It is a complete, end-to-end system designed to solve the core problem of community decay, and it serves as the architectural blueprint for all of Creepy's features.
 
 ### The First Platform: Rapid Growth on Firebase
 
-Creepy was born on Firebase, an incredible platform for rapid prototyping. With Google's Gemini or Goole JULES and its code assistant tools as my primary partners, we built everything from the dashboard to the backend logic. But the project's success was also a challenge. As Creepy grew from 32 to 42 commands, its complexity outgrew the initial Firebase setup, leading to a critical, unrecoverable crash during a major command overhaul.
+Creepy was born on Firebase, an incredible platform for rapid prototyping. With Google's Gemini and its code assistant tools as my primary partners, we built everything from the dashboard to the backend logic. But the project's success was also a challenge. As Creepy grew from 32 to 42 commands, its complexity outgrew the initial Firebase setup, leading to a critical, unrecoverable crash during a major command overhaul.
 
 ### The Crisis & The Pivot
 
