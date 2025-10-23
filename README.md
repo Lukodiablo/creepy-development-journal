@@ -14,6 +14,7 @@ This journal provides a transparent look into our technical decision-making and 
 *   **[Malware & Dependency Fix Plan](./malware_fix.md)** - Our incident report and recovery plan from the September 8th npm supply-chain attack.
 *   **[Dependency & Node.js Upgrade Audit](./dependency_audit.md)** - A comprehensive log of our process for modernizing the stack and resolving security vulnerabilities.
 *   **[Product Features Overview](./features.md)** - A detailed look into the features that make up the Creepy platform.
+*   **[View the Creepy 2.0 Roadmap](./roadmap.md)** Latest roadmap.
 
 ---
 
