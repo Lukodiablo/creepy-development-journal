@@ -46,5 +46,10 @@ I’ll explore:
 ---
 
 ## 💬 Final Note
+This isn’t just about covering a bill — it’s about unlocking a frozen infrastructure, activating untouched GenAI credits, and pushing Creepy into public beta with full Gemini integration.
 
-Every contribution helps unlock the infrastructure and push Creepy into public beta. Sponsors will be kept in the loop, and I’ll make sure your support is acknowledged — whether publicly or privately.
+Every contribution helps restore momentum and requalify for Google Cloud’s startup program, where Creepy could stands out as a Gemini-powered case study built entirely through AI tooling and solo execution.
+
+Sponsors will be kept in the loop with transparent updates, and I’ll make sure your support is acknowledged — whether privately, publicly, or directly inside the product.
+
+You’re not just funding a bot. You’re backing a founder who builds with precision, documents every step, and delivers.
