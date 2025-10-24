@@ -1,3 +1,8 @@
+## 🙌 Support Creepy
+
+Creepy is an AI-native Discord bot ecosystem built with Gemini CLI, Firebase, and Copilot. If you find it useful or want to help me recover from the GCloud freeze, consider sponsoring.
+👉 [Become a Sponsor](https://github.com/sponsors/Lukodiablo)  
+
 # 🧠 The Creepy App – Development Journal
 
 This repository contains the public development journal for The Creepy App, a next-generation interactive tool for Discord communities. Our core source code is private, but we believe in transparency regarding our development process, security audits, funding recovery, and commitment to building a stable, professional-grade platform.
