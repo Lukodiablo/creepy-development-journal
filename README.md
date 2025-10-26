@@ -49,6 +49,7 @@ These assets document the current state of the platform and recovery effort:
 * ![Moonshot Screenshot](./moon_shot.png) – Visual from the Gemini-powered dashboard  
 * ![Live Page Overview](./overview1.png) – Frozen landing page from thecreepy.app  
 * ![Creepy PRO Preview](./pro_preview..png) – Subscription UI with GPay integration
+* ![Watch on Streamable](https://streamable.com/uug79z) - Landing page & wiki preview 
 
 GPay integration has been approved via API, but payment routing to the wallet is pending setup. Once infrastructure is restored, we’ll finalize the payment link and enable direct subscriptions. PayPal and Revolut API integration are planned post-recovery.
 
