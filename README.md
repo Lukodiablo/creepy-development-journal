@@ -19,27 +19,10 @@ This journal provides a transparent look into our technical decision-making and 
 * **[Malware & Dependency Fix Plan](./malware_fix.md)** – Our incident report and recovery plan from the September 8th npm supply-chain attack  
 * **[Product Features Overview](./features.md)** – A detailed look into the features that make up the Creepy platform  
 * **[View the Creepy 2.0 Roadmap](./roadmap.md)** – Latest roadmap and rollout strategy  
-* **[Funding Breakdown & Launch Plan](./funding-plan.md)** – How the $600 goal is split across recovery, hosting, and sponsor transparency
+
 
 ---
 
-## 💸 Infrastructure Freeze & Recovery Plan
-
-Creepy was ready to launch. The dashboard works. The wiki’s live. The bot logic is tested. But GCloud froze our infrastructure over a $200 overdue bill — cutting off VM access and API calls mid-rollout.
-
-We’re raising **$600 USD** to:
-- 🔓 Unfreeze the VM and restore full service  
-- 🧮 Cover the next billing cycle for stable hosting  
-- 🚀 Launch the public beta and activate Creepy PRO
-
-Once we reach **$250**, we unlock:
-- ✅ Gemini CLI access and $1000 in untouched GenAI credit  
-- ✅ Requalification for Google Cloud’s startup program  
-- ✅ Restoration of thecreepy.app and full dashboard access
-
-📊 [View the full funding breakdown](./funding-plan.md)
-
----
 
 ## 🖼️ Screenshots & Visuals
 
@@ -47,7 +30,6 @@ These assets document the current state of the platform and recovery effort:
 
 * ![GCloud Startup Review](./gcloud_startup.png) – Application screenshot for Google Cloud for Startups  
 * ![Moonshot Screenshot](./moon_shot.png) – Visual from the Gemini-powered dashboard  
-* ![Live Page Overview](./overview1.png) – Frozen landing page from thecreepy.app  
 * ![Creepy PRO Preview](./pro_preview..png) – Subscription UI with GPay integration
 * ![Watch on Streamable](https://streamable.com/uug79z) - Landing page & wiki preview 
 
