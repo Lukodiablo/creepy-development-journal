@@ -50,7 +50,7 @@ We respect privacy — sponsor visibility is optional and configurable.
 
 ## 🌐 Learn More
 
-Thecreepy.app is currently offline due to infrastructure freeze. Once funding reaches $250, the site will be restored and publicly accessible.
+The site [thecreeppy.app](https://Thecreepy.app) is is partially restored. Once funding reaches $150, the services  will be fully restored.
 
 Sponsor the recovery: [github.com/sponsors/Lukodiablo](https://github.com/sponsors/Lukodiablo)
 
