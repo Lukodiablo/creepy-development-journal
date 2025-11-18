@@ -41,7 +41,7 @@ You made it! Here's your exclusive 14-day Creepy PRO trial code:
 1. Go to https://thecreepy.app/dashboard
 2. Select your Discord server
 3. Click "Subscription" 
-4. Enter code: DREAMHACK-2025
+4. Enter code: DREAMHACK-XXXX ( not a real code here )
 5. Enjoy 14 days of PRO features! ✨
 
 **What You Get:**
@@ -73,12 +73,12 @@ Let's build something amazing together! 🚀
 ```
 ╔═══════════════════════════════════╗
 ║                                   ║
-║         [CREEPY LOGO]            ║
+║         [CREEPY LOGO]             ║
 ║                                   ║
-║   Discord's Smartest Bot         ║
+║   Discord's Smartest Bot          ║
 ║                                   ║
-║      [QR CODE TO WEBSITE]        ║
-║    https://thecreepy.app         ║
+║      [QR CODE TO WEBSITE]         ║
+║    https://thecreepy.app          ║
 ║                                   ║
 ╚═══════════════════════════════════╝
 ```
@@ -88,17 +88,17 @@ Let's build something amazing together! 🚀
 ╔═══════════════════════════════════╗
 ║  🎮 EXCLUSIVE DREAMHACK OFFER 🎮  ║
 ║                                   ║
-║   Join Creepy Labs to unlock     ║
-║   your FREE 14-day PRO trial!    ║
+║   Join Creepy Labs to unlock      ║
+║   your FREE 14-day PRO trial!     ║
 ║                                   ║
-║   [QR CODE TO LABS DISCORD]      ║
+║   [QR CODE TO LABS DISCORD]       ║
 ║                                   ║
 ║  ✨ AI-Powered Moderation         ║
 ║  🤖 50 AI Calls/Day               ║
 ║  ⏰ 14-Day Trial                  ║
 ║  🎁 Limited to 1000 users         ║
 ║                                   ║
-║   Scan now - spots filling fast! ║
+║   Scan now - spots filling fast!  ║
 ╚═══════════════════════════════════╝
 ```
 
@@ -178,7 +178,7 @@ Fields to watch:
 We've had [X] people join today! 
 
 Haven't redeemed your code yet? 
-Code: DREAMHACK-2025
+Code: DREAMHACK-XXXX
 👉 https://thecreepy.app/dashboard
 
 Questions? Drop them in <#support>!
@@ -227,7 +227,7 @@ This offer expires with your trial! ⏰
 
 Your trial has ended, but you're always welcome to upgrade.
 
-Standard pricing: €5/month for PRO, €10/month for ULTRA
+Standard pricing: €7.99/month for PRO, €14.99/month for ULTRA
 👉 https://thecreepy.app/dashboard
 
 Thanks for being part of the community! 💜
@@ -249,10 +249,15 @@ Thanks for being part of the community! 💜
 - ✅ **€250/month recurring** (50 × €5)
 
 ### ROI Calculation:
-**If 50 people subscribe to PRO (€5/mo):**
-- Month 1: €250
-- Annual value: €3,000  
-- LTV (12 months): €36,000
+**If 50 people subscribe to PRO (€7.99/mo):**
+- Month 1: €399  
+- Annual value: €4,794
+- LTV: €4,794
+
+**If 50 people subscribe to PRO (€14.99/mo):**
+- Month 1 revenue: €749.50
+- Annual value: €8,994
+- LTV: €8,994
 
 **Event Cost:**
 - Cards: **€150** (1000 cards @ €15/100)
